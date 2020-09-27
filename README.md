@@ -1,16 +1,15 @@
-# Learning
+# Bottom Navigation Bar
+# I share files for pleasure so feel free to use or modify them.
 
-A new Flutter project.
+Just simple Bottom navigation bar made with 'Costum painter'
+and lottie asset at the middle
 
-## Getting Started
+## Demonstration
+![Demp](https://github.com/zharrane/Bottom-Nav-Bar/blob/master/demo/demo.gif)
+## Modification
 
-This project is a starting point for a Flutter application.
+feel free to modify or use the nav bar anywhere
+if you're looking for any other shape play with utils/button-nav-bar.dart variables
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## If you get any errors or issues, please create an [Issue](https://github.com/zharrane/Bottom-Nav-Bar/issues/new).
+### Feel free to use this script share it or modify it.
