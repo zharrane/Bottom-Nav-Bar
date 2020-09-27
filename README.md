@@ -3,7 +3,8 @@
 
 Just simple Bottom navigation bar made with 'Costum painter'
 and lottie asset at the middle
-
+- to add visit [Lottie](https://pub.dev/packages/lottie). at pub.dev
+- to find lottie assets visit [Lottie assets](https://lottiefiles.com/). at lottie official site
 ## Demonstration
 
 <img src="https://github.com/zharrane/Bottom-Nav-Bar/blob/master/demo/demo.gif" width="400" height="750"/>
