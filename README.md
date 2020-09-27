@@ -5,7 +5,7 @@ Just simple Bottom navigation bar made with 'Costum painter'
 and lottie asset at the middle
 
 ## Demonstration
-![Demp](https://github.com/zharrane/Bottom-Nav-Bar/blob/master/demo/demo.gif =400x650)
+![Demp](https://github.com/zharrane/Bottom-Nav-Bar/blob/master/demo/demo.gif)
 ## Modification
 
 feel free to modify or use the nav bar anywhere
