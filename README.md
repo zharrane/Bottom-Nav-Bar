@@ -6,7 +6,7 @@ and lottie asset at the middle
 
 ## Demonstration
 
-<img src="https://github.com/zharrane/Bottom-Nav-Bar/blob/master/demo/demo.gif" width="250" height="250"/>
+<img src="https://github.com/zharrane/Bottom-Nav-Bar/blob/master/demo/demo.gif" width="400" height="750"/>
 ## Modification
 
 feel free to modify or use the nav bar anywhere
